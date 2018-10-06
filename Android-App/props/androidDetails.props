@@ -1,0 +1,23 @@
+platformName=Android
+deviceName=Google Nexus 5x Emulator
+AUTOMATION_NAME=uiautomator2
+appium_version=1.6.5
+platFormVersion=7.0
+
+
+#UDID Settings
+
+#use any 1 UDID value.
+# UDID_Value for genymotion emulator- 192.168.111.101:5555
+# UDID_Value for genymotion emulator_112.29- 192.168.108.101:5555
+# UDID_Value for lenevo tab- HGADTFB8
+# UDID_Value for nexus 6p -ENU7N16612000459
+# UDID_Value for android emulator 8- emulator-5556
+# UDID_Value for android emulator 9- emulator-5554
+
+
+UDID_Value = 192.168.108.101:5555
+IPRINT_APK_FILE= /android-auto/android_apps/NovelliPrint-3.0.0.29-release.apk
+APP_PACKAGE_NAME = com.novell.iprint.android
+APP_ACTIVITY_NAME = .IPrintHomeActivity
+ANDROID_DRIVER_URL = http://164.99.112.29:4723/wd/hub

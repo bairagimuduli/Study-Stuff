@@ -1,0 +1,19 @@
+app=/android_apps/NovelliPrint-3.0.0.191-release.apk
+driverFolderName=0Auto
+imageFolder=images
+msFolder=ms
+ooFolder=oo
+othersFolder=others
+addServerPageText=To start printing, you must connect to an iPrint server.
+applianceServerIP=164.99.110.73
+loginUID=admin
+loginPWD=novell
+invalidServerIP=11.12
+nonExistingServerIP=10.178.190.865
+
+
+serverIP=164.99.111.7
+
+multiServerIP1 = 164.99.111.7
+
+multiServerIP2 = 164.99.110.73

@@ -1,0 +1,9 @@
+app=/apps/NovelliPrint.App
+latestAppUrl=http://blr-dist.blr.novell.com/iPrint/RLS/mobile/iOS/latest
+printer_name1=ios_printer1
+LongPrinterName=MaximumCharacterPrinterNameTest
+PauseInputPrinterName=PauseInputPrinter
+PauseOutputPrinterName=PauseOutputPrinter
+UserHoldPrinterName=UserHoldPrinter
+SplCharPrinterName=spl char_-printer
+OperatorHoldPrinterName=OperatorHoldPrinter
